@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-11T06:17:26.978017700Z</date>
+  <millis>1676096246978</millis>
+  <nanos>17700</nanos>
+  <sequence>0</sequence>
+  <logger>loveJava</logger>
+  <level>SEVERE</level>
+  <class>session7.loggerr.LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>error</message>
+</record>
+</log>
